@@ -1,0 +1,35 @@
+projects/blip2/
+├── configs/               # 复现核心：参数配置中心（无需写代码，改配置即可）
+├── examples/              # 快速上手：零样本/推理示例（复现阶段6用）
+├── models/                # 模型核心：BLIP-2网络结构实现（复现阶段3/4的基础）
+├── train.py               # 训练入口：预训练/微调的统一启动脚本（复现阶段3/4用）
+├── evaluate.py            # 评估入口：计算指标，对比论文结果（复现阶段5用）
+├── predict.py             # 轻量推理：单样本快速测试（验证模型效果用）
+└── README.md              # 任务说明：模型介绍、权重链接、参数解释（查资料用）
+
+1. configs/ 目录（复现的 “总开关”）
+所有参数都在这里配置，无需修改代码，对应复现的 “数据、训练、模型” 三大核心
+预训练配置：pretrain_stage1.yaml（训练 Q-Former）、pretrain_stage2.yaml（微调 LLM）
+关键参数：model（模型结构，如 ViT-g+Flan-T5-XXL）、data（数据集路径 + 处理方式）、train（batch size、学习率、步数）
+下游任务配置：vqav2.yaml（VQA）、coco_caption.yaml（图像描述）等
+关键参数：model.pretrained_path（官方预训练权重路径）、evaluation.metrics（评估指标，如 VQA 的准确率）
+2. examples/ 目录（零基础友好，快速验证）
+包含现成的 Python 脚本，直接运行就能看到效果，对应复现阶段 6
+blip2_zero_shot_image_captioning.py：零样本图像描述（无需微调，直接用预训练模型）
+blip2_vqa.py：视觉问答示例（输入图片 + 问题，输出答案）
+blip2_feature_extraction.py：提取图像 / 文本特征（用于图文检索等任务）
+3. models/ 目录（BLIP-2 的 “骨架”，无需修改）
+论文的核心模型结构都在这里实现，复现的基础（不用懂细节，会用即可）
+blip2.py：主模型类，整合 “图像编码器→Q-Former→LLM” 三大模块，实现前向传播
+blip2_qformer.py：Q-Former 实现（论文核心创新点，桥接图像和语言）
+vit.py：图像编码器（ViT-g/14）封装，冻结预训练权重
+llm.py：LLM 封装（Flan-T5/OPT），根据配置文件自动加载对应模型
+tokenizer.py：文本分词工具，适配不同 LLM 的输入格式
+4. train.py + evaluate.py（复现的 “执行器”）
+train.py：读取configs/的参数，自动加载数据、模型、优化器，执行训练循环
+用法：python train.py --cfg-path 配置文件路径 --output-dir 保存路径
+evaluate.py：读取训练好的模型和测试集，计算指标（如准确率、CIDEr）
+用法：python evaluate.py --cfg-path 配置文件路径 --model-path 模型权重路径
+5. predict.py（快速测试工具）
+无需配置文件，命令行输入图像路径和提示即可输出结果
+用法：python predict.py --model blip2_vit_g_flant5xxl --image test.jpg --prompt "图中有什么"

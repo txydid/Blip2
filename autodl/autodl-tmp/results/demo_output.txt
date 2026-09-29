@@ -1,0 +1,8 @@
+🚀 使用设备: cuda
+🔄 正在加载 BLIP-2 模型 (blip2_t5, pretrain_flant5xl)...
+✅ 模型加载完成！
+
+❓ Prompt: Question: What animal is this? Answer:
+👉 模型回答: ['a dog']
+
+🖼️ 图像描述: ['a dog laying on a rack of shoes']

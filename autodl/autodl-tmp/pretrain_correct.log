@@ -1,0 +1,142 @@
+2025-11-12 02:26:37,765 [INFO] 
+=====  Running Parameters    =====
+2025-11-12 02:26:37,766 [INFO] {
+    "accum_grad_iters": 8,
+    "amp": true,
+    "batch_size_eval": 8,
+    "batch_size_train": 8,
+    "device": "cuda",
+    "dist_url": "env://",
+    "distributed": false,
+    "evaluate": false,
+    "init_lr": 0.0001,
+    "lr_sched": "linear_warmup_cosine_lr",
+    "max_epoch": 1,
+    "min_lr": 1e-05,
+    "num_workers": 4,
+    "output_dir": "output/BLIP2/Pretrain_stage1",
+    "precision": "fp16",
+    "resume_ckpt_path": null,
+    "seed": 42,
+    "task": "pretrain_blip2",
+    "train_splits": [
+        "train"
+    ],
+    "warmup_lr": 1e-06,
+    "warmup_steps": 5000,
+    "weight_decay": 0.05,
+    "world_size": 1
+}
+2025-11-12 02:26:37,766 [INFO] 
+======  Dataset Attributes  ======
+2025-11-12 02:26:37,766 [INFO] 
+======== vg_caption =======
+2025-11-12 02:26:37,766 [INFO] {
+    "build_info": {
+        "annotations": {
+            "train": {
+                "storage": "vg/annotations/vg_caption.json",
+                "url": "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/datasets/visual_genome/vg_caption.json"
+            }
+        },
+        "images": {
+            "storage": "vg/images/"
+        },
+        "text_processor": {
+            "train": {
+                "name": "blip_caption"
+            }
+        },
+        "vis_processor": {
+            "train": {
+                "image_size": 224,
+                "name": "blip_image_train"
+            }
+        }
+    },
+    "data_type": "images",
+    "text_processor": {
+        "train": {
+            "name": "blip_caption"
+        }
+    },
+    "vis_processor": {
+        "train": {
+            "image_size": 224,
+            "name": "blip_image_train"
+        }
+    }
+}
+2025-11-12 02:26:37,766 [INFO] 
+======== coco_caption =======
+2025-11-12 02:26:37,767 [INFO] {
+    "build_info": {
+        "annotations": {
+            "test": {
+                "md5": "3ff34b0ef2db02d01c37399f6a2a6cd1",
+                "storage": "coco/annotations/coco_karpathy_test.json",
+                "url": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_test.json"
+            },
+            "train": {
+                "md5": "aa31ac474cf6250ebb81d18348a07ed8",
+                "storage": "coco/annotations/coco_karpathy_train.json",
+                "url": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_train.json"
+            },
+            "val": {
+                "md5": "b273847456ef5580e33713b1f7de52a0",
+                "storage": "coco/annotations/coco_karpathy_val.json",
+                "url": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_val.json"
+            }
+        },
+        "images": {
+            "storage": "coco/images/"
+        }
+    },
+    "data_type": "images",
+    "dataset_card": "dataset_card/coco_caption.md",
+    "text_processor": {
+        "train": {
+            "name": "blip_caption"
+        }
+    },
+    "vis_processor": {
+        "train": {
+            "image_size": 224,
+            "name": "blip2_image_train"
+        }
+    }
+}
+2025-11-12 02:26:37,767 [INFO] 
+======  Model Attributes  ======
+2025-11-12 02:26:37,767 [INFO] {
+    "arch": "blip2_pretrain",
+    "freeze_vit": true,
+    "lm_model": "google/flan-t5-xl",
+    "load_pretrained": true,
+    "model_type": "pretrain_flant5xl",
+    "num_query_token": 32,
+    "pretrained": "https://storage.googleapis.com/sfr-vision-language-research/BLIP2/models/model_base.pth",
+    "qformer_model": "bert-base-uncased",
+    "vit_model": "eva_clip_g"
+}
+2025-11-12 02:26:37,768 [WARNING] /root/autodl-tmp/LAVIS/lavis/datasets/builders/base_dataset_builder.py:164: UserWarning: 
+                The specified path /export/home/.cache/lavis/vg/images/ for visual inputs does not exist.
+                Please provide a correct path to the visual inputs or
+                refer to datasets/download_scripts/README.md for downloading instructions.
+                
+  warnings.warn(
+
+2025-11-12 02:26:37,768 [INFO] Building datasets...
+2025-11-12 02:26:37,769 [WARNING] /root/autodl-tmp/LAVIS/lavis/datasets/builders/base_dataset_builder.py:224: UserWarning: storage path /export/home/.cache/lavis/vg/images/ does not exist.
+  warnings.warn("storage path {} does not exist.".format(vis_path))
+
+2025-11-12 02:26:38,785 [INFO] Building datasets...
+Not using distributed mode
+Traceback (most recent call last):
+  File "/root/autodl-tmp/LAVIS/train.py", line 103, in <module>
+    main()
+  File "/root/autodl-tmp/LAVIS/train.py", line 94, in main
+    model = task.build_model(cfg)
+  File "/root/autodl-tmp/LAVIS/lavis/tasks/base_task.py", line 33, in build_model
+    return model_cls.from_config(model_config)
+AttributeError: type object 'Blip2Pretrain' has no attribute 'from_config'

@@ -1,0 +1,12 @@
+[
+    {
+        "image": "tests/samples/test1.jpg",
+        "caption_en": "marina bay sands, singapore",
+        "caption_zh": "海滨湾沙滩沙滩"
+    },
+    {
+        "image": "tests/samples/test2.jpg",
+        "caption_en": "marina bay sands, singapore",
+        "caption_zh": "海滨湾沙滩沙滩"
+    }
+]

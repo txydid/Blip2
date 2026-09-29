@@ -1,0 +1,802 @@
+[
+  {
+    "image_id": "COCO_val2014_000000000042.jpg",
+    "caption": "a dog is sleeping on a rack of shoes"
+  },
+  {
+    "image_id": "COCO_val2014_000000000073.jpg",
+    "caption": "a motorcycle is parked in front of a house"
+  },
+  {
+    "image_id": "COCO_val2014_000000000074.jpg",
+    "caption": "a dog is sleeping on a cobblestone street"
+  },
+  {
+    "image_id": "COCO_val2014_000000000133.jpg",
+    "caption": "a small bedroom with a bunk bed and a desk"
+  },
+  {
+    "image_id": "COCO_val2014_000000000136.jpg",
+    "caption": "Two giraffes are standing in a zoo enclosure"
+  },
+  {
+    "image_id": "COCO_val2014_000000000139.jpg",
+    "caption": "a living room with a tv and a fireplace"
+  },
+  {
+    "image_id": "COCO_val2014_000000000143.jpg",
+    "caption": "a group of birds sitting on top of a tree"
+  },
+  {
+    "image_id": "COCO_val2014_000000000164.jpg",
+    "caption": "a small kitchen with a table and chairs"
+  },
+  {
+    "image_id": "COCO_val2014_000000000192.jpg",
+    "caption": "A baseball player is preparing to hit a home run in a baseball game"
+  },
+  {
+    "image_id": "COCO_val2014_000000000196.jpg",
+    "caption": "There is a lot of food on a table"
+  },
+  {
+    "image_id": "COCO_val2014_000000000208.jpg",
+    "caption": "a toy dinosaur is brushing his teeth in a bathroom sink"
+  },
+  {
+    "image_id": "COCO_val2014_000000000241.jpg",
+    "caption": "a man is standing in front of a group of people"
+  },
+  {
+    "image_id": "COCO_val2014_000000000257.jpg",
+    "caption": "Several food trucks are parked near a statue of liberty"
+  },
+  {
+    "image_id": "COCO_val2014_000000000283.jpg",
+    "caption": "a bottle of wine and a glass of wine on a table"
+  },
+  {
+    "image_id": "COCO_val2014_000000000285.jpg",
+    "caption": "a brown bear is sitting in the grass"
+  },
+  {
+    "image_id": "COCO_val2014_000000000294.jpg",
+    "caption": "A man is standing in front of a kitchen full of pots and pans"
+  },
+  {
+    "image_id": "COCO_val2014_000000000328.jpg",
+    "caption": "three young men in uniform sitting on a bench"
+  },
+  {
+    "image_id": "COCO_val2014_000000000338.jpg",
+    "caption": "a man is standing in a kitchen"
+  },
+  {
+    "image_id": "COCO_val2014_000000000357.jpg",
+    "caption": "a baseball player is about to hit a ball in a baseball game"
+  },
+  {
+    "image_id": "COCO_val2014_000000000359.jpg",
+    "caption": "there is a traffic light in the middle of a street"
+  },
+  {
+    "image_id": "COCO_val2014_000000000360.jpg",
+    "caption": "A snowboarder is doing a trick in the air"
+  },
+  {
+    "image_id": "COCO_val2014_000000000387.jpg",
+    "caption": "a laptop is stacked on top of a cell phone"
+  },
+  {
+    "image_id": "COCO_val2014_000000000395.jpg",
+    "caption": "a man is talking on a cell phone in a crowded area"
+  },
+  {
+    "image_id": "COCO_val2014_000000000397.jpg",
+    "caption": "a large pizza on a table"
+  },
+  {
+    "image_id": "COCO_val2014_000000000400.jpg",
+    "caption": "a dog is sitting in the back of a boat"
+  },
+  {
+    "image_id": "COCO_val2014_000000000415.jpg",
+    "caption": "a tennis player is about to hit a ball"
+  },
+  {
+    "image_id": "COCO_val2014_000000000428.jpg",
+    "caption": "A baby is eating a birthday cake in front of balloons"
+  },
+  {
+    "image_id": "COCO_val2014_000000000459.jpg",
+    "caption": "a man is taking a picture of himself with a camera"
+  },
+  {
+    "image_id": "COCO_val2014_000000000472.jpg",
+    "caption": "a plane is flying over a body of water"
+  },
+  {
+    "image_id": "COCO_val2014_000000000474.jpg",
+    "caption": "A young boy is catching a baseball in a field"
+  },
+  {
+    "image_id": "COCO_val2014_000000000486.jpg",
+    "caption": "a kitchen with a wooden counter top"
+  },
+  {
+    "image_id": "COCO_val2014_000000000488.jpg",
+    "caption": "A baseball player is swinging a bat at a ball"
+  },
+  {
+    "image_id": "COCO_val2014_000000000502.jpg",
+    "caption": "a black bear is walking through a grassy area"
+  },
+  {
+    "image_id": "COCO_val2014_000000000520.jpg",
+    "caption": "A group of birds are flying over a body of water"
+  },
+  {
+    "image_id": "COCO_val2014_000000000536.jpg",
+    "caption": "three women are sitting in a room talking on their cell phones"
+  },
+  {
+    "image_id": "COCO_val2014_000000000544.jpg",
+    "caption": "A baseball player is swinging at a pitch in front of a crowd"
+  },
+  {
+    "image_id": "COCO_val2014_000000000564.jpg",
+    "caption": "a man is playing tennis with a racquet"
+  },
+  {
+    "image_id": "COCO_val2014_000000000569.jpg",
+    "caption": "a woman is flying a kite in a garden"
+  },
+  {
+    "image_id": "COCO_val2014_000000000589.jpg",
+    "caption": "A man is throwing a frisbee in a field at night"
+  },
+  {
+    "image_id": "COCO_val2014_000000000590.jpg",
+    "caption": "a white bathroom with a newspaper wall"
+  },
+  {
+    "image_id": "COCO_val2014_000000000599.jpg",
+    "caption": "a cat is laying on a leather chair next to a remote control"
+  },
+  {
+    "image_id": "COCO_val2014_000000000623.jpg",
+    "caption": "A woman is hugging a large teddy bear"
+  },
+  {
+    "image_id": "COCO_val2014_000000000626.jpg",
+    "caption": "There is a clock tower in the middle of a building"
+  },
+  {
+    "image_id": "COCO_val2014_000000000632.jpg",
+    "caption": "There is a bed in a room with a window and bookshelves"
+  },
+  {
+    "image_id": "COCO_val2014_000000000636.jpg",
+    "caption": "There is a toilet in a room with a window"
+  },
+  {
+    "image_id": "COCO_val2014_000000000641.jpg",
+    "caption": "a city bus is driving down a city street"
+  },
+  {
+    "image_id": "COCO_val2014_000000000661.jpg",
+    "caption": "a burger on a tray"
+  },
+  {
+    "image_id": "COCO_val2014_000000000675.jpg",
+    "caption": "a black and white cat is reaching for a cup"
+  },
+  {
+    "image_id": "COCO_val2014_000000000692.jpg",
+    "caption": "a woman is taking a picture of her baby with a camera"
+  },
+  {
+    "image_id": "COCO_val2014_000000000693.jpg",
+    "caption": "a little girl is standing on a skateboard in a store"
+  },
+  {
+    "image_id": "COCO_val2014_000000000699.jpg",
+    "caption": "there is a street light in the background"
+  },
+  {
+    "image_id": "COCO_val2014_000000000711.jpg",
+    "caption": "a living room with a couch and a coffee table"
+  },
+  {
+    "image_id": "COCO_val2014_000000000715.jpg",
+    "caption": "There is a display of oranges, pineapples, and bananas"
+  },
+  {
+    "image_id": "COCO_val2014_000000000724.jpg",
+    "caption": "There is a stop sign on a pole in the middle of a street"
+  },
+  {
+    "image_id": "COCO_val2014_000000000730.jpg",
+    "caption": "a red double decker bus driving down a street"
+  },
+  {
+    "image_id": "COCO_val2014_000000000757.jpg",
+    "caption": "A group of elephants are standing in the water"
+  },
+  {
+    "image_id": "COCO_val2014_000000000761.jpg",
+    "caption": "a group of people on skis"
+  },
+  {
+    "image_id": "COCO_val2014_000000000764.jpg",
+    "caption": "Two people are playing a game of frisbee in a park"
+  },
+  {
+    "image_id": "COCO_val2014_000000000772.jpg",
+    "caption": "three sheep standing in a field"
+  },
+  {
+    "image_id": "COCO_val2014_000000000775.jpg",
+    "caption": "a motorcycle parked next to a tree"
+  },
+  {
+    "image_id": "COCO_val2014_000000000776.jpg",
+    "caption": "a group of teddy bears laying on a bed"
+  },
+  {
+    "image_id": "COCO_val2014_000000000785.jpg",
+    "caption": "A woman is skiing down a snowy slope"
+  },
+  {
+    "image_id": "COCO_val2014_000000000802.jpg",
+    "caption": "a kitchen with a refrigerator and stove"
+  },
+  {
+    "image_id": "COCO_val2014_000000000810.jpg",
+    "caption": "Two baskets of sandwiches are sitting on a table outside"
+  },
+  {
+    "image_id": "COCO_val2014_000000000827.jpg",
+    "caption": "a zebra is running through a grassy area"
+  },
+  {
+    "image_id": "COCO_val2014_000000000831.jpg",
+    "caption": "A skateboarder is doing a trick in a skate park"
+  },
+  {
+    "image_id": "COCO_val2014_000000000836.jpg",
+    "caption": "A snowboarder is doing a trick on a snowy mountain"
+  },
+  {
+    "image_id": "COCO_val2014_000000000872.jpg",
+    "caption": "Two baseball players are playing a game of baseball"
+  },
+  {
+    "image_id": "COCO_val2014_000000000873.jpg",
+    "caption": "There is a factory with a lot of smoke coming out of the chimneys"
+  },
+  {
+    "image_id": "COCO_val2014_000000000885.jpg",
+    "caption": "A tennis player is about to hit a ball on a tennis court"
+  },
+  {
+    "image_id": "COCO_val2014_000000000923.jpg",
+    "caption": "A green and yellow train is traveling down a train track"
+  },
+  {
+    "image_id": "COCO_val2014_000000000939.jpg",
+    "caption": "a bathroom with two sinks and a mirror"
+  },
+  {
+    "image_id": "COCO_val2014_000000000962.jpg",
+    "caption": "A man is holding a tennis racket and a ball on a tennis court"
+  },
+  {
+    "image_id": "COCO_val2014_000000000969.jpg",
+    "caption": "A young boy is throwing a ball to an older man in a yard"
+  },
+  {
+    "image_id": "COCO_val2014_000000000974.jpg",
+    "caption": "A group of people are riding on the back of an elephant"
+  },
+  {
+    "image_id": "COCO_val2014_000000000985.jpg",
+    "caption": "a yellow bus parked in front of a building"
+  },
+  {
+    "image_id": "COCO_val2014_000000000987.jpg",
+    "caption": "The oven is open and a kettle is sitting on top of it"
+  },
+  {
+    "image_id": "COCO_val2014_000000000999.jpg",
+    "caption": "a baseball player kneels down to catch a ball"
+  },
+  {
+    "image_id": "COCO_val2014_000000001000.jpg",
+    "caption": "a group of kids posing for a picture on a tennis court"
+  },
+  {
+    "image_id": "COCO_val2014_000000001029.jpg",
+    "caption": "a plane is flying over a barbed wire fence"
+  },
+  {
+    "image_id": "COCO_val2014_000000001063.jpg",
+    "caption": "a giraffe standing in a zoo"
+  },
+  {
+    "image_id": "COCO_val2014_000000001064.jpg",
+    "caption": "a plate of food with broccoli and meat on it"
+  },
+  {
+    "image_id": "COCO_val2014_000000001083.jpg",
+    "caption": "Two cows are grazing in a grassy field"
+  },
+  {
+    "image_id": "COCO_val2014_000000001089.jpg",
+    "caption": "obama is sitting at a table with a glass of water in front of him"
+  },
+  {
+    "image_id": "COCO_val2014_000000001103.jpg",
+    "caption": "black and white image of a flock of gulls walking on the beach"
+  },
+  {
+    "image_id": "COCO_val2014_000000001138.jpg",
+    "caption": "a living room with a fireplace and couches"
+  },
+  {
+    "image_id": "COCO_val2014_000000001146.jpg",
+    "caption": "a young man wearing a black shirt and tie"
+  },
+  {
+    "image_id": "COCO_val2014_000000001149.jpg",
+    "caption": "a group of men are standing around a table with a bunch of bombs on it"
+  },
+  {
+    "image_id": "COCO_val2014_000000001153.jpg",
+    "caption": "a bunch of bananas in a bowl"
+  },
+  {
+    "image_id": "COCO_val2014_000000001164.jpg",
+    "caption": "Two women are petting an elephant in the water"
+  },
+  {
+    "image_id": "COCO_val2014_000000001171.jpg",
+    "caption": "a train is sitting on the side of a street at dusk"
+  },
+  {
+    "image_id": "COCO_val2014_000000001176.jpg",
+    "caption": "A skateboarder is doing a trick on a skateboard"
+  },
+  {
+    "image_id": "COCO_val2014_000000001180.jpg",
+    "caption": "A woman is cutting a cake in front of a group of people"
+  },
+  {
+    "image_id": "COCO_val2014_000000001205.jpg",
+    "caption": "a room with a bed and a bedside table"
+  },
+  {
+    "image_id": "COCO_val2014_000000001228.jpg",
+    "caption": "A group of zebras are standing in a zoo enclosure"
+  },
+  {
+    "image_id": "COCO_val2014_000000001244.jpg",
+    "caption": "A man is sitting on a dock with an umbrella"
+  },
+  {
+    "image_id": "COCO_val2014_000000001268.jpg",
+    "caption": "a woman is taking a picture of a swan in the water"
+  },
+  {
+    "image_id": "COCO_val2014_000000001270.jpg",
+    "caption": "A baseball player is ready to hit a ball in a baseball game"
+  },
+  {
+    "image_id": "COCO_val2014_000000001290.jpg",
+    "caption": "A child is sitting in a high chair with a birthday cake in front of them"
+  },
+  {
+    "image_id": "COCO_val2014_000000001292.jpg",
+    "caption": "a woman is holding a tennis racket"
+  },
+  {
+    "image_id": "COCO_val2014_000000001296.jpg",
+    "caption": "a woman is holding a hello kitty cell phone"
+  },
+  {
+    "image_id": "COCO_val2014_000000001340.jpg",
+    "caption": "There is a vase of flowers on a table in a restaurant"
+  },
+  {
+    "image_id": "COCO_val2014_000000001342.jpg",
+    "caption": "a person is holding a book with a picture of a plane in it"
+  },
+  {
+    "image_id": "COCO_val2014_000000001347.jpg",
+    "caption": "a desk with a computer and a laptop"
+  },
+  {
+    "image_id": "COCO_val2014_000000001353.jpg",
+    "caption": "a group of children riding a toy train in a room"
+  },
+  {
+    "image_id": "COCO_val2014_000000001369.jpg",
+    "caption": "A surfer is walking on the beach with a surfboard"
+  },
+  {
+    "image_id": "COCO_val2014_000000001374.jpg",
+    "caption": "A passenger train is stopped at a train station"
+  },
+  {
+    "image_id": "COCO_val2014_000000001393.jpg",
+    "caption": "a vase of flowers with a cactus in it"
+  },
+  {
+    "image_id": "COCO_val2014_000000001398.jpg",
+    "caption": "a cat is sitting on a person's leg"
+  },
+  {
+    "image_id": "COCO_val2014_000000001404.jpg",
+    "caption": "a young boy is sitting on a couch with a stuffed animal"
+  },
+  {
+    "image_id": "COCO_val2014_000000001425.jpg",
+    "caption": "a plate of food with a sandwich on it"
+  },
+  {
+    "image_id": "COCO_val2014_000000001436.jpg",
+    "caption": "a man is laying on a couch with two laptops on top of him"
+  },
+  {
+    "image_id": "COCO_val2014_000000001442.jpg",
+    "caption": "A polar bear is sitting on a rock in a zoo enclosure"
+  },
+  {
+    "image_id": "COCO_val2014_000000001448.jpg",
+    "caption": "a giraffe is grazing in a field"
+  },
+  {
+    "image_id": "COCO_val2014_000000001464.jpg",
+    "caption": "a person is skiing down a snowy slope"
+  },
+  {
+    "image_id": "COCO_val2014_000000001490.jpg",
+    "caption": "a man is standing on a surfboard in the water"
+  },
+  {
+    "image_id": "COCO_val2014_000000001503.jpg",
+    "caption": "a desk with a laptop, a monitor, a keyboard, and a mouse"
+  },
+  {
+    "image_id": "COCO_val2014_000000001525.jpg",
+    "caption": "A plane is parked in a hangar"
+  },
+  {
+    "image_id": "COCO_val2014_000000001532.jpg",
+    "caption": "a car is driving down a highway under a bridge"
+  },
+  {
+    "image_id": "COCO_val2014_000000001554.jpg",
+    "caption": "Three sheep are standing in a grassy field with people watching them"
+  },
+  {
+    "image_id": "COCO_val2014_000000001561.jpg",
+    "caption": "a bird is sitting on a skateboard"
+  },
+  {
+    "image_id": "COCO_val2014_000000001563.jpg",
+    "caption": "a woman is holding her skis in front of a sign"
+  },
+  {
+    "image_id": "COCO_val2014_000000001573.jpg",
+    "caption": "There is a stove in a kitchen with a teddy bear on it"
+  },
+  {
+    "image_id": "COCO_val2014_000000001577.jpg",
+    "caption": "a glass vase filled with yellow and white daffodils"
+  },
+  {
+    "image_id": "COCO_val2014_000000001584.jpg",
+    "caption": "a red double decker bus driving down a city street"
+  },
+  {
+    "image_id": "COCO_val2014_000000001590.jpg",
+    "caption": "There is a cow in the back of a truck"
+  },
+  {
+    "image_id": "COCO_val2014_000000001591.jpg",
+    "caption": "There is a tv in a room with a person sitting in front of it"
+  },
+  {
+    "image_id": "COCO_val2014_000000001592.jpg",
+    "caption": "a girl is sitting in a chair under an umbrella"
+  },
+  {
+    "image_id": "COCO_val2014_000000001599.jpg",
+    "caption": "A woman is playing tennis with a racquet on a clay court"
+  },
+  {
+    "image_id": "COCO_val2014_000000001626.jpg",
+    "caption": "Two people are playing a video game in a living room"
+  },
+  {
+    "image_id": "COCO_val2014_000000001647.jpg",
+    "caption": "a pair of scissors on a piece of paper"
+  },
+  {
+    "image_id": "COCO_val2014_000000001655.jpg",
+    "caption": "A man is taking a picture of a mountain range with a cell phone"
+  },
+  {
+    "image_id": "COCO_val2014_000000001667.jpg",
+    "caption": "A little girl is eating a piece of cake with a fork"
+  },
+  {
+    "image_id": "COCO_val2014_000000001668.jpg",
+    "caption": "a baseball player is holding a bat in front of a scoreboard"
+  },
+  {
+    "image_id": "COCO_val2014_000000001675.jpg",
+    "caption": "a cat is laying on top of a laptop"
+  },
+  {
+    "image_id": "COCO_val2014_000000001682.jpg",
+    "caption": "a sailboat is floating in the water near a mountain"
+  },
+  {
+    "image_id": "COCO_val2014_000000001700.jpg",
+    "caption": "A young man is riding a snowboard on a snowy hill"
+  },
+  {
+    "image_id": "COCO_val2014_000000001722.jpg",
+    "caption": "a man is walking down a street with an umbrella"
+  },
+  {
+    "image_id": "COCO_val2014_000000001739.jpg",
+    "caption": "A green truck is parked in a field with a tarp covering it"
+  },
+  {
+    "image_id": "COCO_val2014_000000001757.jpg",
+    "caption": "a group of women are sitting at a table with wine glasses"
+  },
+  {
+    "image_id": "COCO_val2014_000000001761.jpg",
+    "caption": "Two airplanes are flying over a bridge in sydney"
+  },
+  {
+    "image_id": "COCO_val2014_000000001779.jpg",
+    "caption": "Two street signs are on a pole in front of a building"
+  },
+  {
+    "image_id": "COCO_val2014_000000001799.jpg",
+    "caption": "a green truck driving down a city street"
+  },
+  {
+    "image_id": "COCO_val2014_000000001803.jpg",
+    "caption": "a bathroom with a sink, toilet, and a blue tiled floor"
+  },
+  {
+    "image_id": "COCO_val2014_000000001818.jpg",
+    "caption": "a mother zebra is nursing a baby zebra"
+  },
+  {
+    "image_id": "COCO_val2014_000000001840.jpg",
+    "caption": "a bunch of colorful umbrellas hanging from trees"
+  },
+  {
+    "image_id": "COCO_val2014_000000001841.jpg",
+    "caption": "a woman wearing a hat"
+  },
+  {
+    "image_id": "COCO_val2014_000000001852.jpg",
+    "caption": "a pair of scissors next to a red rose"
+  },
+  {
+    "image_id": "COCO_val2014_000000001856.jpg",
+    "caption": "A surfer is riding a wave in the ocean"
+  },
+  {
+    "image_id": "COCO_val2014_000000001869.jpg",
+    "caption": "A group of elephants are walking in a field"
+  },
+  {
+    "image_id": "COCO_val2014_000000001903.jpg",
+    "caption": "a hot dog in a container with pickles and mustard"
+  },
+  {
+    "image_id": "COCO_val2014_000000001948.jpg",
+    "caption": "a man holding a turkey"
+  },
+  {
+    "image_id": "COCO_val2014_000000001955.jpg",
+    "caption": "A girl is flying a kite in a park"
+  },
+  {
+    "image_id": "COCO_val2014_000000001960.jpg",
+    "caption": "a soccer player is about to kick a soccer ball"
+  },
+  {
+    "image_id": "COCO_val2014_000000001987.jpg",
+    "caption": "A man is catching a frisbee on the beach"
+  },
+  {
+    "image_id": "COCO_val2014_000000001993.jpg",
+    "caption": "There is a bed in a room with a window"
+  },
+  {
+    "image_id": "COCO_val2014_000000002006.jpg",
+    "caption": "a purple bus is driving down a street"
+  },
+  {
+    "image_id": "COCO_val2014_000000002014.jpg",
+    "caption": "A woman is riding a skateboard down a street"
+  },
+  {
+    "image_id": "COCO_val2014_000000002061.jpg",
+    "caption": "There is a toilet in a bathroom with a trash can next to it"
+  },
+  {
+    "image_id": "COCO_val2014_000000002124.jpg",
+    "caption": "A man is riding a horse on the back of a truck at a rodeo"
+  },
+  {
+    "image_id": "COCO_val2014_000000002139.jpg",
+    "caption": "a bicycle is parked next to a bed"
+  },
+  {
+    "image_id": "COCO_val2014_000000002142.jpg",
+    "caption": "a man is feeding pigeons on a bench"
+  },
+  {
+    "image_id": "COCO_val2014_000000002149.jpg",
+    "caption": "a bowl of green apples on a table"
+  },
+  {
+    "image_id": "COCO_val2014_000000002153.jpg",
+    "caption": "a baseball player is swinging a bat at a pitch"
+  },
+  {
+    "image_id": "COCO_val2014_000000002154.jpg",
+    "caption": "a shopping cart sits on a sidewalk next to a bench"
+  },
+  {
+    "image_id": "COCO_val2014_000000002157.jpg",
+    "caption": "There is a cake on a table next to a platter of cheese and fruit"
+  },
+  {
+    "image_id": "COCO_val2014_000000002164.jpg",
+    "caption": "a group of sheep grazing in a field"
+  },
+  {
+    "image_id": "COCO_val2014_000000002171.jpg",
+    "caption": "Three people are in the water on a surfboard"
+  },
+  {
+    "image_id": "COCO_val2014_000000002179.jpg",
+    "caption": "a skateboarder is doing a trick on a ramp"
+  },
+  {
+    "image_id": "COCO_val2014_000000002191.jpg",
+    "caption": "A person is riding a surfboard in the ocean"
+  },
+  {
+    "image_id": "COCO_val2014_000000002212.jpg",
+    "caption": "Two dogs are laying on a couch in a living room"
+  },
+  {
+    "image_id": "COCO_val2014_000000002225.jpg",
+    "caption": "a girl is eating a donut"
+  },
+  {
+    "image_id": "COCO_val2014_000000002235.jpg",
+    "caption": "A tennis player is about to hit a ball with his racket"
+  },
+  {
+    "image_id": "COCO_val2014_000000002239.jpg",
+    "caption": "A young girl is holding a tennis racket on a tennis court"
+  },
+  {
+    "image_id": "COCO_val2014_000000002240.jpg",
+    "caption": "a group of teddy bears laying on a table"
+  },
+  {
+    "image_id": "COCO_val2014_000000002255.jpg",
+    "caption": "An elephant is standing in a zoo with trees in the background"
+  },
+  {
+    "image_id": "COCO_val2014_000000002261.jpg",
+    "caption": "A young man is riding a wave on a surfboard"
+  },
+  {
+    "image_id": "COCO_val2014_000000002290.jpg",
+    "caption": "There is a boat docked in the water next to a dock"
+  },
+  {
+    "image_id": "COCO_val2014_000000002295.jpg",
+    "caption": "a cat is sniffing a bowl of yarn"
+  },
+  {
+    "image_id": "COCO_val2014_000000002299.jpg",
+    "caption": "a group of children posing for a photo"
+  },
+  {
+    "image_id": "COCO_val2014_000000002302.jpg",
+    "caption": "Two people are riding horses down a rocky path"
+  },
+  {
+    "image_id": "COCO_val2014_000000002315.jpg",
+    "caption": "A group of elephants are walking down a hill next to a river"
+  },
+  {
+    "image_id": "COCO_val2014_000000002346.jpg",
+    "caption": "Three small vases with flowers in them sit on a table next to a penny"
+  },
+  {
+    "image_id": "COCO_val2014_000000002388.jpg",
+    "caption": "a bathroom with a toilet, shower, and sink"
+  },
+  {
+    "image_id": "COCO_val2014_000000002431.jpg",
+    "caption": "A plate of food is on a table next to a glass of wine"
+  },
+  {
+    "image_id": "COCO_val2014_000000002434.jpg",
+    "caption": "Two laptops are sitting on a table next to each other"
+  },
+  {
+    "image_id": "COCO_val2014_000000002453.jpg",
+    "caption": "a bench is sitting in a flooded area"
+  },
+  {
+    "image_id": "COCO_val2014_000000002473.jpg",
+    "caption": "A skier is doing a trick in the air"
+  },
+  {
+    "image_id": "COCO_val2014_000000002477.jpg",
+    "caption": "a man is sitting on a couch with a laptop and a dog"
+  },
+  {
+    "image_id": "COCO_val2014_000000002495.jpg",
+    "caption": "a person standing in a bathroom with a urinal"
+  },
+  {
+    "image_id": "COCO_val2014_000000002521.jpg",
+    "caption": "There is a one way sign in front of a building"
+  },
+  {
+    "image_id": "COCO_val2014_000000002525.jpg",
+    "caption": "a woman is standing in front of a display of cupcakes"
+  },
+  {
+    "image_id": "COCO_val2014_000000002529.jpg",
+    "caption": "There is a clock on a pole in the middle of a street"
+  },
+  {
+    "image_id": "COCO_val2014_000000002532.jpg",
+    "caption": "a person on skis standing on a snow covered hill"
+  },
+  {
+    "image_id": "COCO_val2014_000000002562.jpg",
+    "caption": "a tennis player swings his racket at a ball"
+  },
+  {
+    "image_id": "COCO_val2014_000000002587.jpg",
+    "caption": "a donut and a banana in a plastic bag"
+  },
+  {
+    "image_id": "COCO_val2014_000000002592.jpg",
+    "caption": "A mug with a skull and crossbones sits on a table next to a knife"
+  },
+  {
+    "image_id": "COCO_val2014_000000002613.jpg",
+    "caption": "A man is riding a wave on a surfboard"
+  },
+  {
+    "image_id": "COCO_val2014_000000002621.jpg",
+    "caption": "There is a green traffic light on a pole in front of a building"
+  },
+  {
+    "image_id": "COCO_val2014_000000002640.jpg",
+    "caption": "A train is traveling on a bridge over a city"
+  }
+]

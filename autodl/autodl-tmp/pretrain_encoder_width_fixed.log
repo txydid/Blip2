@@ -1,0 +1,158 @@
+2025-11-12 03:25:39,375 [INFO] 
+=====  Running Parameters    =====
+2025-11-12 03:25:39,375 [INFO] {
+    "accum_grad_iters": 8,
+    "amp": true,
+    "batch_size_eval": 8,
+    "batch_size_train": 1,
+    "device": "cuda",
+    "dist_url": "env://",
+    "distributed": false,
+    "evaluate": false,
+    "init_lr": 0.0001,
+    "lr_sched": "linear_warmup_cosine_lr",
+    "max_epoch": 1,
+    "min_lr": 1e-05,
+    "num_workers": 2,
+    "output_dir": "output/BLIP2/Pretrain_stage1",
+    "precision": "fp16",
+    "resume_ckpt_path": null,
+    "seed": 42,
+    "task": "pretrain_blip2",
+    "train_splits": [
+        "train"
+    ],
+    "warmup_lr": 1e-06,
+    "warmup_steps": 5000,
+    "weight_decay": 0.05,
+    "world_size": 1
+}
+2025-11-12 03:25:39,375 [INFO] 
+======  Dataset Attributes  ======
+2025-11-12 03:25:39,376 [INFO] 
+======== vg_caption =======
+2025-11-12 03:25:39,376 [INFO] {
+    "build_info": {
+        "annotations": {
+            "train": {
+                "storage": "vg/annotations/vg_caption.json",
+                "url": "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/datasets/visual_genome/vg_caption.json"
+            }
+        },
+        "images": {
+            "storage": "vg/images/"
+        },
+        "text_processor": {
+            "train": {
+                "name": "blip_caption"
+            }
+        },
+        "vis_processor": {
+            "train": {
+                "image_size": 224,
+                "name": "blip_image_train"
+            }
+        }
+    },
+    "data_type": "images"
+}
+2025-11-12 03:25:39,376 [INFO] 
+======== coco_caption =======
+2025-11-12 03:25:39,377 [INFO] {
+    "build_info": {
+        "annotations": {
+            "test": {
+                "md5": "3ff34b0ef2db02d01c37399f6a2a6cd1",
+                "storage": "coco/annotations/coco_karpathy_test.json",
+                "url": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_test.json"
+            },
+            "train": {
+                "md5": "aa31ac474cf6250ebb81d18348a07ed8",
+                "storage": "coco/annotations/coco_karpathy_train.json",
+                "url": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_train.json"
+            },
+            "val": {
+                "md5": "b273847456ef5580e33713b1f7de52a0",
+                "storage": "coco/annotations/coco_karpathy_val.json",
+                "url": "https://storage.googleapis.com/sfr-vision-language-research/datasets/coco_karpathy_val.json"
+            }
+        },
+        "images": {
+            "storage": "coco/images/"
+        }
+    },
+    "data_type": "images",
+    "dataset_card": "dataset_card/coco_caption.md",
+    "text_processor": {
+        "train": {
+            "name": "blip_caption"
+        }
+    },
+    "vis_processor": {
+        "train": {
+            "image_size": 224,
+            "name": "blip2_image_train"
+        }
+    }
+}
+2025-11-12 03:25:39,377 [INFO] 
+======  Model Attributes  ======
+2025-11-12 03:25:39,377 [INFO] {
+    "arch": "blip2_pretrain",
+    "freeze_vit": true,
+    "lm_model": "google/flan-t5-xl",
+    "load_pretrained": true,
+    "model_type": "pretrain_flant5xl",
+    "num_query_token": 32,
+    "pretrained": "https://storage.googleapis.com/sfr-vision-language-research/BLIP2/models/model_base.pth",
+    "qformer_model": "bert-base-uncased",
+    "vit_model": "eva_clip_g"
+}
+2025-11-12 03:25:39,377 [WARNING] /root/autodl-tmp/LAVIS/lavis/datasets/builders/base_dataset_builder.py:164: UserWarning: 
+                The specified path /export/home/.cache/lavis/vg/images/ for visual inputs does not exist.
+                Please provide a correct path to the visual inputs or
+                refer to datasets/download_scripts/README.md for downloading instructions.
+                
+  warnings.warn(
+
+2025-11-12 03:25:39,378 [INFO] Building datasets...
+2025-11-12 03:25:39,378 [WARNING] /root/autodl-tmp/LAVIS/lavis/datasets/builders/base_dataset_builder.py:224: UserWarning: storage path /export/home/.cache/lavis/vg/images/ does not exist.
+  warnings.warn("storage path {} does not exist.".format(vis_path))
+
+2025-11-12 03:25:40,377 [INFO] Building datasets...
+2025-11-12 03:25:54,275 [WARNING] /root/miniconda3/envs/lavis/lib/python3.10/site-packages/huggingface_hub/file_download.py:1150: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+
+Not using distributed mode
+Traceback (most recent call last):
+  File "/root/autodl-tmp/LAVIS/train.py", line 103, in <module>
+    main()
+  File "/root/autodl-tmp/LAVIS/train.py", line 94, in main
+    model = task.build_model(cfg)
+  File "/root/autodl-tmp/LAVIS/lavis/tasks/base_task.py", line 33, in build_model
+    return model_cls.from_config(model_config)
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/blip2_pretrain.py", line 99, in from_config
+    model = cls(
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/blip2_pretrain.py", line 37, in __init__
+    self.Qformer, self.query_tokens = self.init_Qformer(
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/blip2.py", line 54, in init_Qformer
+    Qformer = BertLMHeadModel.from_pretrained(
+  File "/root/miniconda3/envs/lavis/lib/python3.10/site-packages/transformers/modeling_utils.py", line 2966, in from_pretrained
+    model = cls(config, *model_args, **model_kwargs)
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/Qformer.py", line 976, in __init__
+    self.bert = BertModel(config, add_pooling_layer=False)
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/Qformer.py", line 693, in __init__
+    self.encoder = BertEncoder(config)
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/Qformer.py", line 492, in __init__
+    [BertLayer(config, i) for i in range(config.num_hidden_layers)]
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/Qformer.py", line 492, in <listcomp>
+    [BertLayer(config, i) for i in range(config.num_hidden_layers)]
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/Qformer.py", line 390, in __init__
+    self.crossattention = BertAttention(
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/Qformer.py", line 295, in __init__
+    self.self = BertSelfAttention(config, is_cross_attention)
+  File "/root/autodl-tmp/LAVIS/lavis/models/blip2_models/Qformer.py", line 129, in __init__
+    self.key = nn.Linear(config.encoder_width, self.all_head_size)
+  File "/root/miniconda3/envs/lavis/lib/python3.10/site-packages/torch/nn/modules/linear.py", line 109, in __init__
+    torch.empty((out_features, in_features), **factory_kwargs)
+TypeError: empty(): argument 'size' failed to unpack the object at pos 2 with error "type must be tuple of ints,but got str"

@@ -1,0 +1,335 @@
+COCO_val2014_000000000042.jpg	a dog laying on a rack of shoes
+COCO_val2014_000000000073.jpg	a motorcycle parked in front of a house
+COCO_val2014_000000000074.jpg	a white dog laying on a cobblestone street
+COCO_val2014_000000000133.jpg	a small bedroom with a bunk bed and a desk
+COCO_val2014_000000000136.jpg	two giraffes in a zoo
+COCO_val2014_000000000139.jpg	a living room with a tv and a fireplace
+COCO_val2014_000000000143.jpg	a group of birds sitting on top of a tree
+COCO_val2014_000000000164.jpg	a small kitchen with a table and chairs
+COCO_val2014_000000000192.jpg	a baseball player is standing at home plate
+COCO_val2014_000000000196.jpg	a table with a lot of food on it
+COCO_val2014_000000000208.jpg	a toy dinosaur is brushing his teeth in a bathroom sink
+COCO_val2014_000000000241.jpg	a man standing in front of a group of people
+COCO_val2014_000000000257.jpg	a group of people standing in front of a food truck
+COCO_val2014_000000000283.jpg	a bottle of wine and a glass of wine on a table
+COCO_val2014_000000000285.jpg	a brown bear sitting in the grass
+COCO_val2014_000000000294.jpg	a man standing in front of a kitchen full of pots and pans
+COCO_val2014_000000000328.jpg	three men in uniform sitting on a bench
+COCO_val2014_000000000338.jpg	a man standing in a kitchen
+COCO_val2014_000000000357.jpg	a baseball game on a field
+COCO_val2014_000000000359.jpg	a street light in the middle of a city
+COCO_val2014_000000000360.jpg	a snowboarder is doing a trick in the air
+COCO_val2014_000000000387.jpg	a laptop on top of a cell phone
+COCO_val2014_000000000395.jpg	an older man talking on a cell phone
+COCO_val2014_000000000397.jpg	a large pizza on a table
+COCO_val2014_000000000400.jpg	a dog sitting in the back of a pontoon boat
+COCO_val2014_000000000415.jpg	a tennis player is about to hit a ball
+COCO_val2014_000000000428.jpg	a baby is eating a birthday cake in front of balloons
+COCO_val2014_000000000459.jpg	a man in a suit taking a picture with a camera
+COCO_val2014_000000000472.jpg	a plane flying over a body of water
+COCO_val2014_000000000474.jpg	a young boy catching a baseball in a field
+COCO_val2014_000000000486.jpg	a kitchen with a wooden counter top
+COCO_val2014_000000000488.jpg	a baseball player is swinging at a ball
+COCO_val2014_000000000502.jpg	a black bear walking on the ground
+COCO_val2014_000000000520.jpg	a group of birds flying over a body of water
+COCO_val2014_000000000536.jpg	three women sitting on chairs and talking on cell phones
+COCO_val2014_000000000544.jpg	a baseball player is swinging a bat at a pitch
+COCO_val2014_000000000564.jpg	a man on a tennis court with a racquet
+COCO_val2014_000000000569.jpg	a woman is flying a kite
+COCO_val2014_000000000589.jpg	a man throwing a frisbee in a field at night
+COCO_val2014_000000000590.jpg	a white bathroom with newspaper tiles on the walls
+COCO_val2014_000000000599.jpg	a cat laying on a leather chair next to a remote control
+COCO_val2014_000000000623.jpg	a woman hugging a large teddy bear
+COCO_val2014_000000000626.jpg	a large brick building with a clock tower
+COCO_val2014_000000000632.jpg	a blue comforter on a bed in a bedroom
+COCO_val2014_000000000636.jpg	a white toilet in a room with a window
+COCO_val2014_000000000641.jpg	a city bus driving down a city street
+COCO_val2014_000000000661.jpg	a sandwich on a tray
+COCO_val2014_000000000675.jpg	a black and white cat standing on a bed
+COCO_val2014_000000000692.jpg	a woman taking a picture of a baby
+COCO_val2014_000000000693.jpg	a little girl standing on a skateboard in a store
+COCO_val2014_000000000699.jpg	a blurry image of a street light
+COCO_val2014_000000000711.jpg	a living room with a couch and a coffee table
+COCO_val2014_000000000715.jpg	a display of oranges, pineapples, and bananas
+COCO_val2014_000000000724.jpg	a stop sign on a pole
+COCO_val2014_000000000730.jpg	a red double decker bus driving down a street
+COCO_val2014_000000000757.jpg	a group of elephants standing in the water
+COCO_val2014_000000000761.jpg	a group of people on skis
+COCO_val2014_000000000764.jpg	a group of people playing frisbee in a park
+COCO_val2014_000000000772.jpg	three sheep standing in a field
+COCO_val2014_000000000775.jpg	a motorcycle parked next to a tree
+COCO_val2014_000000000776.jpg	a group of teddy bears laying on a bed
+COCO_val2014_000000000785.jpg	a woman on skis on a snowy slope
+COCO_val2014_000000000802.jpg	a kitchen with a white refrigerator and stove
+COCO_val2014_000000000810.jpg	a sandwich is sitting on a table
+COCO_val2014_000000000827.jpg	a zebra is running through a grassy area
+COCO_val2014_000000000831.jpg	a skateboarder doing a trick in a skate park
+COCO_val2014_000000000836.jpg	a person doing a trick on a snowboard
+COCO_val2014_000000000872.jpg	a baseball player is running to catch a ball
+COCO_val2014_000000000873.jpg	a large building with two chimneys
+COCO_val2014_000000000885.jpg	a tennis player swinging his racket on a tennis court
+COCO_val2014_000000000923.jpg	a green and yellow train on the tracks
+COCO_val2014_000000000939.jpg	a bathroom with two sinks and a mirror
+COCO_val2014_000000000962.jpg	a man holding a tennis racket
+COCO_val2014_000000000969.jpg	a young boy is throwing a ball to an older man
+COCO_val2014_000000000974.jpg	a group of people riding on an elephant
+COCO_val2014_000000000985.jpg	a yellow bus parked in front of a building
+COCO_val2014_000000000987.jpg	a kitchen with a stove and a pot on the stove
+COCO_val2014_000000000999.jpg	a baseball player crouching on the ground
+COCO_val2014_000000001000.jpg	a group of kids posing for a picture on a tennis court
+COCO_val2014_000000001029.jpg	a plane flying over a barbed wire fence
+COCO_val2014_000000001063.jpg	a giraffe standing in a zoo
+COCO_val2014_000000001064.jpg	a white plate with food on it
+COCO_val2014_000000001083.jpg	two cows grazing in a field
+COCO_val2014_000000001089.jpg	president barack obama sitting at a table with his hands on his face
+COCO_val2014_000000001103.jpg	a black and white photo of a group of birds walking on the beach
+COCO_val2014_000000001138.jpg	a living room with a fireplace and couches
+COCO_val2014_000000001146.jpg	a man wearing a black shirt and tie
+COCO_val2014_000000001149.jpg	a group of military men standing around a table
+COCO_val2014_000000001153.jpg	a bunch of bananas in a bowl
+COCO_val2014_000000001164.jpg	a woman is petting an elephant in the water
+COCO_val2014_000000001171.jpg	a train sitting on the side of the road
+COCO_val2014_000000001176.jpg	a skateboarder doing a trick on a railing
+COCO_val2014_000000001180.jpg	a woman cutting a cake
+COCO_val2014_000000001205.jpg	a room with a bed and a bedside table
+COCO_val2014_000000001228.jpg	a group of zebras standing in a zoo enclosure
+COCO_val2014_000000001244.jpg	a man sitting on a dock with an umbrella
+COCO_val2014_000000001268.jpg	a bridge over a body of water
+COCO_val2014_000000001270.jpg	a young boy is ready to hit a ball in a baseball game
+COCO_val2014_000000001290.jpg	a baby in a high chair
+COCO_val2014_000000001292.jpg	a woman sitting on a chair holding a tennis racket
+COCO_val2014_000000001296.jpg	a woman holding a hello kitty cell phone
+COCO_val2014_000000001340.jpg	a table with a vase on it
+COCO_val2014_000000001342.jpg	a person holding a book with a picture of a plane
+COCO_val2014_000000001347.jpg	a desk with a computer and a laptop
+COCO_val2014_000000001353.jpg	a group of children riding a toy train in a room
+COCO_val2014_000000001369.jpg	a man in a wetsuit walking on the beach with a surfboard
+COCO_val2014_000000001374.jpg	a purple and yellow passenger train is stopped at a train station
+COCO_val2014_000000001393.jpg	a green vase with red roses
+COCO_val2014_000000001398.jpg	a gray cat resting on a person's leg
+COCO_val2014_000000001404.jpg	a young boy sitting on a couch with a stuffed animal
+COCO_val2014_000000001425.jpg	a white plate with a sandwich on it
+COCO_val2014_000000001436.jpg	a man laying on a couch
+COCO_val2014_000000001442.jpg	a polar bear in a zoo
+COCO_val2014_000000001448.jpg	a giraffe eating grass in a field
+COCO_val2014_000000001464.jpg	a person skiing down a snowy slope
+COCO_val2014_000000001490.jpg	a man is standing on a surfboard
+COCO_val2014_000000001503.jpg	a desk with a computer, keyboard and mouse
+COCO_val2014_000000001525.jpg	a plane is parked in a hangar
+COCO_val2014_000000001532.jpg	a bridge over a highway
+COCO_val2014_000000001554.jpg	three sheep in a field
+COCO_val2014_000000001561.jpg	a bird perched on a skateboard
+COCO_val2014_000000001563.jpg	a woman holding skis
+COCO_val2014_000000001573.jpg	an old stove in a kitchen with a teddy bear
+COCO_val2014_000000001577.jpg	a glass vase filled with yellow and white daffodils
+COCO_val2014_000000001584.jpg	a red double decker bus is driving down the street
+COCO_val2014_000000001590.jpg	a truck with a cow in the back
+COCO_val2014_000000001591.jpg	a black and white television
+COCO_val2014_000000001592.jpg	a little girl sitting in a chair under an umbrella
+COCO_val2014_000000001599.jpg	a woman is playing tennis on a clay court
+COCO_val2014_000000001626.jpg	two people playing a video game in a living room
+COCO_val2014_000000001647.jpg	a pair of scissors on a piece of paper
+COCO_val2014_000000001655.jpg	a man is taking a picture of a mountain range
+COCO_val2014_000000001667.jpg	a little girl is eating a piece of cake with a fork
+COCO_val2014_000000001668.jpg	a baseball player holding a bat
+COCO_val2014_000000001675.jpg	a cat laying on top of a laptop
+COCO_val2014_000000001682.jpg	the water is clear
+COCO_val2014_000000001700.jpg	a man riding a snowboard on a snowy hill
+COCO_val2014_000000001722.jpg	a man on a bicycle with an umbrella walking down a street
+COCO_val2014_000000001739.jpg	a green truck parked in a field
+COCO_val2014_000000001757.jpg	a woman wearing a green shirt
+COCO_val2014_000000001761.jpg	two airplanes flying over the sydney harbour bridge
+COCO_val2014_000000001779.jpg	a street sign on a pole
+COCO_val2014_000000001799.jpg	a green truck driving down a city street
+COCO_val2014_000000001803.jpg	a 3d model of a bathroom
+COCO_val2014_000000001818.jpg	a black and white photo of a zebra
+COCO_val2014_000000001840.jpg	colorful umbrellas hanging from trees in a forest
+COCO_val2014_000000001841.jpg	a woman wearing a hat
+COCO_val2014_000000001852.jpg	a pair of scissors next to a red rose
+COCO_val2014_000000001856.jpg	a surfer riding a wave in the ocean
+COCO_val2014_000000001869.jpg	a group of elephants walking in a field
+COCO_val2014_000000001903.jpg	a hot dog in a plastic container
+COCO_val2014_000000001948.jpg	a man holding a turkey
+COCO_val2014_000000001955.jpg	a girl is flying a kite in a park
+COCO_val2014_000000001960.jpg	a soccer player is about to kick a soccer ball
+COCO_val2014_000000001987.jpg	a man catching a frisbee on the beach
+COCO_val2014_000000001993.jpg	a small bedroom with a bed and a table
+COCO_val2014_000000002006.jpg	the bus is purple
+COCO_val2014_000000002014.jpg	a woman riding a skateboard down a street
+COCO_val2014_000000002061.jpg	a toilet in a bathroom
+COCO_val2014_000000002124.jpg	a man riding a horse on a trailer at a rodeo
+COCO_val2014_000000002139.jpg	a bicycle parked on a bed
+COCO_val2014_000000002142.jpg	a man feeding pigeons
+COCO_val2014_000000002149.jpg	a bowl of green apples on a table
+COCO_val2014_000000002153.jpg	a baseball player swinging a bat
+COCO_val2014_000000002154.jpg	a shopping cart sitting on a sidewalk next to a bench
+COCO_val2014_000000002157.jpg	a cake with berries on top of it
+COCO_val2014_000000002164.jpg	a group of sheep grazing in a field
+COCO_val2014_000000002171.jpg	a group of people on a surfboard in the ocean
+COCO_val2014_000000002179.jpg	a man on a skateboard
+COCO_val2014_000000002191.jpg	a person riding a surfboard in the ocean
+COCO_val2014_000000002212.jpg	two dogs laying on a couch
+COCO_val2014_000000002225.jpg	a girl eating a donut
+COCO_val2014_000000002235.jpg	a man holding a tennis racket
+COCO_val2014_000000002239.jpg	a young girl holding a tennis racket on a tennis court
+COCO_val2014_000000002240.jpg	a group of teddy bears laying on a table
+COCO_val2014_000000002255.jpg	a large elephant standing in a zoo enclosure
+COCO_val2014_000000002261.jpg	a man riding a wave on a surfboard
+COCO_val2014_000000002290.jpg	a boat docked in a body of water
+COCO_val2014_000000002295.jpg	a cat is sniffing a bowl
+COCO_val2014_000000002299.jpg	a black and white photo of a group of children
+COCO_val2014_000000002302.jpg	two people riding horses down a rocky path
+COCO_val2014_000000002315.jpg	a group of elephants walking down a hill next to a river
+COCO_val2014_000000002346.jpg	three small vases with flowers in them on a table
+COCO_val2014_000000002388.jpg	a bathroom with a toilet and shower
+COCO_val2014_000000002431.jpg	a plate of food on a table next to a glass of wine
+COCO_val2014_000000002434.jpg	two laptops sitting next to each other
+COCO_val2014_000000002453.jpg	a bench in a flooded area
+COCO_val2014_000000002473.jpg	a skier doing a trick in the air
+COCO_val2014_000000002477.jpg	a man sitting on a couch with a laptop and a dog
+COCO_val2014_000000002495.jpg	a person standing next to a toilet in a bathroom
+COCO_val2014_000000002521.jpg	a one way sign on a pole in front of a building
+COCO_val2014_000000002525.jpg	a woman standing in front of a display of cupcakes
+COCO_val2014_000000002529.jpg	a clock on a pole on a street in a town
+COCO_val2014_000000002532.jpg	a person on skis standing on a snow covered hill
+COCO_val2014_000000002562.jpg	a man swinging a tennis racket at a ball
+COCO_val2014_000000002587.jpg	a banana and a donut in a plastic bag
+COCO_val2014_000000002592.jpg	a mug with a skull and crossbones on it
+COCO_val2014_000000002613.jpg	a man riding a wave on a surfboard
+COCO_val2014_000000002621.jpg	a traffic light on a pole in front of a building
+COCO_val2014_000000002640.jpg	a train traveling on a bridge over a city
+COCO_val2014_000000002684.jpg	a herd of zebras grazing on a dirt field
+COCO_val2014_000000002685.jpg	a group of people standing around a bar
+COCO_val2014_000000002690.jpg	a boat docked in a harbor
+COCO_val2014_000000002753.jpg	a dog with a frisbee in its mouth
+COCO_val2014_000000002759.jpg	two bowls of broccoli soup on a wooden table
+COCO_val2014_000000002764.jpg	a boat sits in the shallow water of a beach
+COCO_val2014_000000002822.jpg	a stop sign in the middle of a field
+COCO_val2014_000000002839.jpg	a baby is holding a teddy bear
+COCO_val2014_000000002867.jpg	a group of people on skis
+COCO_val2014_000000002881.jpg	a group of people walking in a field near a plane
+COCO_val2014_000000002890.jpg	a group of people cross a street on skis
+COCO_val2014_000000002894.jpg	a train is on the tracks at a train station
+COCO_val2014_000000002923.jpg	the sky is cloudy
+COCO_val2014_000000002972.jpg	a red and white train at a train station
+COCO_val2014_000000002985.jpg	an elephant in the back of a truck driving down the road
+COCO_val2014_000000002988.jpg	a cat sleeping on a blue chair
+COCO_val2014_000000003001.jpg	a woman is sitting at a table with two boxes of donuts
+COCO_val2014_000000003014.jpg	a pizza is sitting on a table next to a can of beer
+COCO_val2014_000000003035.jpg	a plane is parked on the tarmac at an airport
+COCO_val2014_000000003067.jpg	a cat looking at a piece of bread and an apple
+COCO_val2014_000000003084.jpg	a clock on the side of a brick building
+COCO_val2014_000000003091.jpg	a person eating a chocolate ice cream cake on a plate
+COCO_val2014_000000003093.jpg	a banana in a bowl
+COCO_val2014_000000003103.jpg	a skateboarder doing a trick on a ramp
+COCO_val2014_000000003109.jpg	a woman is standing under an umbrella on a deck
+COCO_val2014_000000003125.jpg	a white van parked on the side of the road
+COCO_val2014_000000003134.jpg	the bus is white and green
+COCO_val2014_000000003145.jpg	a living room with a couch and a chair
+COCO_val2014_000000003149.jpg	a clock tower in front of a building
+COCO_val2014_000000003156.jpg	a black and white photo of a man working on a toilet
+COCO_val2014_000000003192.jpg	a pizza with mushrooms and spinach on a white plate
+COCO_val2014_000000003209.jpg	a woman riding a horse in the snow
+COCO_val2014_000000003217.jpg	a wooden bench in a wooded area
+COCO_val2014_000000003244.jpg	a desk with a laptop and a monitor
+COCO_val2014_000000003255.jpg	a group of people standing on a snow covered mountain
+COCO_val2014_000000003310.jpg	a woman eating a hot dog
+COCO_val2014_000000003326.jpg	two people in a canoe
+COCO_val2014_000000003335.jpg	a white toilet with a smiley face on it
+COCO_val2014_000000003337.jpg	a man holding a cell phone
+COCO_val2014_000000003342.jpg	a red and white train in a train station
+COCO_val2014_000000003378.jpg	a person doing a trick on a skateboard
+COCO_val2014_000000003382.jpg	a group of sailors on a ship talking on the phone
+COCO_val2014_000000003425.jpg	a small bedroom with a bed and a tv
+COCO_val2014_000000003466.jpg	a person standing on a red tiled floor
+COCO_val2014_000000003480.jpg	a group of cows standing in a field
+COCO_val2014_000000003488.jpg	a man kicking a soccer ball
+COCO_val2014_000000003501.jpg	a bowl of rice and broccoli
+COCO_val2014_000000003553.jpg	a person riding a skateboard on a wooden ramp
+COCO_val2014_000000003580.jpg	a man sitting on a couch playing a video game
+COCO_val2014_000000003590.jpg	a man holding an umbrella
+COCO_val2014_000000003595.jpg	a wooden table with wine bottles and wine glasses on it
+COCO_val2014_000000003661.jpg	a bunch of bananas on a desk
+COCO_val2014_000000003690.jpg	a pizza on a plate
+COCO_val2014_000000003693.jpg	a group of people standing in front of a graffiti wall
+COCO_val2014_000000003694.jpg	a person doing a skateboard trick
+COCO_val2014_000000003703.jpg	a table with a laptop, bananas, eggs, and other ingredients
+COCO_val2014_000000003711.jpg	a cat sitting on the hood of a car
+COCO_val2014_000000003716.jpg	a girl sitting on a bed with a laptop
+COCO_val2014_000000003742.jpg	a bowl of apples and a rose on a window sill
+COCO_val2014_000000003761.jpg	a woman wearing a cowboy hat
+COCO_val2014_000000003771.jpg	a cow laying down in a field
+COCO_val2014_000000003779.jpg	a table with wine glasses on it
+COCO_val2014_000000003786.jpg	a woman laying on a bench reading a book
+COCO_val2014_000000003793.jpg	a bus is parked in front of a building
+COCO_val2014_000000003794.jpg	a white plate with food on it
+COCO_val2014_000000003799.jpg	a street sign on a pole in front of a building
+COCO_val2014_000000003817.jpg	a man riding a motorcycle down a road with a bunch of bananas on his back
+COCO_val2014_000000003832.jpg	a yacht docked in a harbor
+COCO_val2014_000000003837.jpg	a group of people standing on surfboards in the water
+COCO_val2014_000000003845.jpg	a plate of chicken and vegetables on a wooden table
+COCO_val2014_000000003849.jpg	a group of cars driving down a highway under a cloudy sky
+COCO_val2014_000000003865.jpg	a person is kitesurfing on a beach
+COCO_val2014_000000003867.jpg	two zebras in a zoo
+COCO_val2014_000000003926.jpg	two sheep grazing in the snow
+COCO_val2014_000000003932.jpg	two sheep in a cage
+COCO_val2014_000000003934.jpg	a young girl playing a video game in a living room
+COCO_val2014_000000003938.jpg	a woman playing a video game in a living room
+COCO_val2014_000000003939.jpg	three little girls holding teddy bears
+COCO_val2014_000000003947.jpg	a herd of sheep grazing on a green field
+COCO_val2014_000000003964.jpg	a woman holding a tennis racket
+COCO_val2014_000000003983.jpg	a group of skiers standing in the snow next to a bus
+COCO_val2014_000000004011.jpg	a woman standing next to a cake with a dog on it
+COCO_val2014_000000004021.jpg	a baseball player is about to hit a ball
+COCO_val2014_000000004066.jpg	two people in wetsuits in the ocean
+COCO_val2014_000000004069.jpg	two people riding bikes on a dirt road
+COCO_val2014_000000004079.jpg	a silver vase with a plant in it
+COCO_val2014_000000004092.jpg	a woman holding a wii remote
+COCO_val2014_000000004093.jpg	a chain link fence with a sign on it
+COCO_val2014_000000004108.jpg	a table with a lot of food on it
+COCO_val2014_000000004125.jpg	a living room with a couch and a coffee table
+COCO_val2014_000000004134.jpg	a man in a suit shaking hands with another man
+COCO_val2014_000000004157.jpg	a clock hanging above a bar
+COCO_val2014_000000004175.jpg	a tennis court with spectators watching a match
+COCO_val2014_000000004187.jpg	a man swinging a tennis racket
+COCO_val2014_000000004211.jpg	a woman in a green dress riding a horse
+COCO_val2014_000000004212.jpg	a cat laying on the hood of a blue car
+COCO_val2014_000000004227.jpg	a boy is playing tennis on a tennis court
+COCO_val2014_000000004229.jpg	a group of elephants in a grassy field
+COCO_val2014_000000004243.jpg	a young boy sitting on a cart full of suitcases
+COCO_val2014_000000004246.jpg	two boys flying a kite on a city street
+COCO_val2014_000000004256.jpg	a plate of broccoli on a table
+COCO_val2014_000000004265.jpg	blue vases on a window sill
+COCO_val2014_000000004266.jpg	a group of people skiing down a snow covered slope
+COCO_val2014_000000004275.jpg	a man doing a trick on a skateboard in a parking lot
+COCO_val2014_000000004283.jpg	two birds standing on a rock in the water
+COCO_val2014_000000004286.jpg	a giraffe standing in the middle of a forest
+COCO_val2014_000000004296.jpg	a kitchen that is being remodeled
+COCO_val2014_000000004312.jpg	a man taking a picture of a pizza
+COCO_val2014_000000004338.jpg	a black bear walking through a field of hay
+COCO_val2014_000000004355.jpg	a man is riding a motorcycle on a street with a stop sign
+COCO_val2014_000000004359.jpg	a woman wearing a hijab standing next to a train
+COCO_val2014_000000004375.jpg	a group of people on skis on a snowy slope
+COCO_val2014_000000004386.jpg	a man sitting on the ground eating a sandwich
+COCO_val2014_000000004392.jpg	a dog sleeping on a bed
+COCO_val2014_000000004395.jpg	a man wearing a white shirt and tie
+COCO_val2014_000000004396.jpg	a teddy bear wearing a santa claus outfit
+COCO_val2014_000000004438.jpg	a man in a suit jumping in the air
+COCO_val2014_000000004495.jpg	a plaid couch in a room with a tv
+COCO_val2014_000000004497.jpg	a white truck driving down the road
+COCO_val2014_000000004498.jpg	a boy on a skateboard
+COCO_val2014_000000004509.jpg	a blond woman in a bodysuit on a bed
+COCO_val2014_000000004551.jpg	a statue of a giraffe flying kites
+COCO_val2014_000000004554.jpg	a group of people snowboarding down a snow covered slope
+COCO_val2014_000000004576.jpg	a group of people standing in front of a clock
+COCO_val2014_000000004592.jpg	a woman playing tennis in front of a crowd
+COCO_val2014_000000004620.jpg	two parking meters on the side of the road
+COCO_val2014_000000004665.jpg	a black and white photo of a bride and groom in a car
+COCO_val2014_000000004678.jpg	a man is walking his dog in front of the sagrada familia cathedral in barcelona, spain
+COCO_val2014_000000004688.jpg	a man flying a kite in a park
+COCO_val2014_000000004700.jpg	a group of kids playing soccer on a field
+COCO_val2014_000000004731.jpg	a woman holding a baby in a kitchen
+COCO_val2014_000000004736.jpg	a baseball player swinging at a pitch
+COCO_val2014_000000004742.jpg	a person riding a wave on a surfboard
+COCO_val2014_000000004749.jpg	a green bowl with bananas in it
+COCO_val2014_000000004754.jpg	a herd of zebras standing in a field
